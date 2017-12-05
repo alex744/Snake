@@ -1,0 +1,5 @@
+C:\Users\telnov\Documents\Visual Studio 2015\Projects\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\telnov\Documents\Visual Studio 2015\Projects\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\telnov\Documents\Visual Studio 2015\Projects\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\telnov\Documents\Visual Studio 2015\Projects\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\telnov\Documents\Visual Studio 2015\Projects\Snake\Snake\obj\Debug\Snake.pdb
