@@ -10,6 +10,7 @@ namespace Snake
 
         static void Main(string[] args)
         {
+            Console.SetWindowSize(MAP_WIDTH, MAP_HEIGHT);
             Console.SetBufferSize(MAP_WIDTH, MAP_HEIGHT);
             Console.CursorVisible = false;
 
